@@ -1,0 +1,20 @@
+body {
+    direction: rtl;
+}
+.header {
+    background-color: #435f8e;
+    height: 80px;
+    text-align: center;
+    color: #fff;
+    font-size: 18px;
+}
+.menu{
+    height: 40px;
+    font-size: 15px;
+}
+.menu a{
+    color: black;
+}
+.login {
+float: left;
+}
