@@ -1,4 +1,6 @@
-
+body {
+    direction: rtl;
+}
 .header {
     background-color: #435f8e;
     height: 80px;
@@ -13,12 +15,16 @@
 .menu a{
     color: black;
 }
+.login {
+float: left;
+margin: 0 auto;
+}
 
 #navbarNav{
     justify-content: center;
 }
-.nav-link:hover {
-    background-color: aqua !important;
 
+.imgslider{
+    width: 100%;
+    height: 100vh;
 }
-
