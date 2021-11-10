@@ -9,8 +9,11 @@ body {
     font-size: 18px;
 }
 .menu{
-    height: 40px;
     font-size: 15px;
+}
+.menu a:hover{
+    background-color: aqua;
+
 }
 .menu a{
     color: black;
@@ -28,3 +31,23 @@ margin: 0 auto;
     width: 100%;
     height: 100vh;
 }
+.white_back{
+    background: #fff;
+    -webkit-box-shadow:3px 3px 5px 6px #ccc;
+    -moz-box-shadow:3px 3px 5px 6px #ccc;
+    box-shadow: 3px 3px 5px 6px #ccc;
+
+
+}
+.btn_reserve{
+    background: #1cc7d0;
+    color: #fff;
+}
+.btn_info{
+    background: #435f8e;
+    color: #fff;
+    font-size: 14px;
+
+}
+
+
